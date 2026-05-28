@@ -1,0 +1,25 @@
+import Pressable
+
+const
+
+return(
+    <Text.style(bodyText)> Hello <Text>
+)
+
+StyleSheet
+bodyText:{
+    textSize: 13,
+    fontColor: blue
+}
+
+
+MIGHT NEED THIS:
+<html>
+  <head>
+    <title>YOUR PREMIER TUTOR</title>
+  </head>
+  <body>
+    <h1>Subjects</h1>
+    <script src="./dist/main.js"></script>
+  </body>
+</html>
